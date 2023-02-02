@@ -1,0 +1,10 @@
+//Selected 5 founders
+-> Elon musk (Tesla / SpaceX)
+-> Bill Gates (Microsoft) 
+-> Ratan Tata (TATA)
+-> Steve Jobs (Apple)
+-> Larry Page (Google)
+
+//Sources for Project
+-> Open-CV official Documentation
+-> ML official Documentation
